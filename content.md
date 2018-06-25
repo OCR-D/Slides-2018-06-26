@@ -5,8 +5,8 @@ layout: true
 <div class="my-footer">
   <table>
     <tr>
-      <td>OCR-D Developer Workshop 2018</td>
-      <td style="text-align:right"><a href="https://ocr-d.de">Neues aus OCR-D</a></td>
+      <td>OCR-D Entwicklerworkshop 2018</td>
+      <td style="text-align:right"><a href="https://ocr-d.de">Stand der OCR-D Eigenentwicklungen</a></td>
     </tr>
   </table>
 </div>
@@ -17,9 +17,9 @@ class: title-slide
 
 # Stand OCR-D Eigenentwicklungen
 
-| Kay-Michael Würzner                         | Konstantin Baierer                          |
-|:-------------------------------------------:|:-------------------------------------------:|
-| [wuerzner@bbaw.de](mailto:wuerzner@bbaw.de) | [konstantin.baierer@sbb.spk-berlin.de](mailto:konstantin.baierer@sbb.spk-berlin.de) |
+| Konstantin Baierer                                                                  | Kay-Michael Würzner                           |
+| :-------------------------------------------:                                       | :-------------------------------------------: |
+| [konstantin.baierer @sbb.spk-berlin.de](mailto:konstantin.baierer@sbb.spk-berlin.de) | [wuerzner @bbaw.de](mailto:wuerzner@bbaw.de)   |
 
 ---
 
@@ -112,7 +112,7 @@ class: title-slide
 # Beispielimplementierungen
 
   * Test von Grundfunktionalitäten des OCR-Workflows
-  * Illustration von Integrationskonzept
+  * Illustration des Integrationskonzepts
   * Wird kontinuierlich erweitert
   * Beispiele:
     * [`ocrd_tesserocr`](https://github.com/OCR-D/ocrd_tesserocr)
@@ -124,8 +124,10 @@ class: title-slide
 # Varia
 
   * Entwicklung und Integration in teaminternem monorepo
-  * ocrd-train (Trainieren von tesseract4 mit Makefile)
-  * Präsentationen des OCR_D Teams
+  * [`ocrd-train`](https://github.com/OCR-D/ocrd-train)
+    * Trainieren von tesseract4 mit Makefile
+  * Präsentationen des OCR-D-Teams
+  * Forks, u.a. [`PAGE-XML`](https://github.com/OCR-D/PAGE-XML)
 
 ---
 
@@ -134,7 +136,8 @@ class: title-slide
 # Keep in touch
 
   * Github: https://github.com/OCR-D
-  * Giter: https://gitter.im/OCR-D/Lobby
+  * Issues: https://github.com/OCR-D/spec/issues
+  * Gitter: https://gitter.im/OCR-D/Lobby
 
 <center>
 https://ocr-d.de
