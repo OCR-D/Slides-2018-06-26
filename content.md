@@ -5,7 +5,7 @@ layout: true
 <div class="my-footer">
   <table>
     <tr>
-      <td>OCR-D Entwicklerworkshop 2018</td>
+      <td>OCR-D-Entwicklerworkshop 2018</td>
       <td style="text-align:right"><a href="https://ocr-d.de">Stand der OCR-D Eigenentwicklungen</a></td>
     </tr>
   </table>
@@ -109,7 +109,7 @@ class: title-slide
 
 ---
 
-# Beispielimplementierungen
+# Referenzimplementierungen
 
   * Test von Grundfunktionalitäten des OCR-Workflows
   * Illustration des Integrationskonzepts
@@ -138,11 +138,3 @@ class: title-slide
   * Github: https://github.com/OCR-D
   * Issues: https://github.com/OCR-D/spec/issues
   * Gitter: https://gitter.im/OCR-D/Lobby
-
-<center>
-https://ocr-d.de
-</center>
-
-<center>
-https://github.com/OCR-D
-</center>
