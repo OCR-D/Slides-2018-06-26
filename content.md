@@ -126,7 +126,7 @@ class: title-slide
   * Entwicklung und Integration in teaminternem monorepo
   * [`ocrd-train`](https://github.com/OCR-D/ocrd-train)
     * Trainieren von tesseract4 mit Makefile
-  * Präsentationen des OCR-D-Teams
+  * [Präsentationen](https://ocr-d.github.io/slides/) des OCR-D-Teams
   * Forks, u.a. [`PAGE-XML`](https://github.com/OCR-D/PAGE-XML)
 
 ---
